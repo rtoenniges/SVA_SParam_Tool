@@ -185,6 +185,7 @@
             // smith_plot_s11
             // 
             this.smith_plot_s11.DisplayScale = 0F;
+            this.smith_plot_s11.Enabled = false;
             this.smith_plot_s11.Location = new System.Drawing.Point(508, 64);
             this.smith_plot_s11.Name = "smith_plot_s11";
             this.smith_plot_s11.Size = new System.Drawing.Size(250, 250);
@@ -213,6 +214,7 @@
             // smith_plot_s21
             // 
             this.smith_plot_s21.DisplayScale = 0F;
+            this.smith_plot_s21.Enabled = false;
             this.smith_plot_s21.Location = new System.Drawing.Point(508, 365);
             this.smith_plot_s21.Name = "smith_plot_s21";
             this.smith_plot_s21.Size = new System.Drawing.Size(250, 250);
