@@ -520,6 +520,7 @@ namespace SVA_SParam_Tool
                 SetButtonColor(btn_plot_smith, SystemColors.Control);
                 SetButtonColor(btn_measure_s11, SystemColors.Control);
                 SetButtonColor(btn_measure_s21, SystemColors.Control);
+                SetButtonColor(btn_load_data, SystemColors.Control);
 
                 btn_plot_smith.Enabled = false;
                 btn_measure_s11.Enabled = false;
